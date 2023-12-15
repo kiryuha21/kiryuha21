@@ -3,7 +3,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Skills :
+### 🛠️ Languages and Skills :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiryuha21&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiryuha21&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
